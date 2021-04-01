@@ -23,6 +23,7 @@ class Home{
 
                 array =  rows;
             });
+            
 
             return array;
         }catch(err){
